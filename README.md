@@ -27,7 +27,7 @@ Materials from this interactive book are used throughout the Natural Language Pr
       Language Modelling (<a href='chapters/language_models_slides.ipynb'>slides</a>)<br>
       Word Embeddings (<a href='chapters/dl-representations_simple.ipynb'>slides</a>)<br>
       </td><td>15. &amp; 18. Sep. 2023:<br>
-      Recurrent Neural Networks and word representations<br>
+      Word representations and sentiment classification<br>
       Project help<br>
       </td><td><a href='labs/notebooks_2023/lab_2.ipynb'>lab 2</a></td></tr>
      <tr><td>38</td><td>
@@ -36,7 +36,7 @@ Materials from this interactive book are used throughout the Natural Language Pr
       Recurrent Neural Networks (<a href='chapters/rnn_slides_ucph.ipynb'>slides</a>)<br>
       Neural Language Models (<a href='chapters/dl-representations_contextual.ipynb'>slides</a>)<br>
       </td><td>22. &amp; 25. Sep. 2023:<br>
-      Language Models with <a href='https://huggingface.co/course/chapter1'>Transformers</a> and RNNs<br>
+      Error analysis and explainability<br>
       Project help<br>
       </td><td><a href='labs/notebooks_2023/lab_3.ipynb'>lab 3</a></td></tr>
     <tr><td>39</td><td>
@@ -46,7 +46,7 @@ Materials from this interactive book are used throughout the Natural Language Pr
       Sequence Labelling (<a href='chapters/sequence_labeling_slides.ipynb'>slides</a>, <a href='chapters/sequence_labeling.ipynb'>notes</a>)<br>
       Parsing (<a href='chapters/dependency_parsing_slides_active.ipynb'>slides</a>)<br>
       </td><td>29. Sep. &amp; 2. Oct. 2023:<br>
-      Error analysis and explainability<br>
+      Sequence labelling and beam search<br>
       Project help<br>
       </td><td><a href='labs/notebooks_2023/lab_4.ipynb'>lab 4</a></td></tr>
      <tr><td>40</td><td>
@@ -57,8 +57,7 @@ Materials from this interactive book are used throughout the Natural Language Pr
       Attention (<a href='chapters/attention_slides2.ipynb'>slides</a>)<br>
       Transformers (<a href='chapters/dl-representations_contextual_transformers.ipynb'>slides</a>)<br>
       </td><td>6. &amp; 9. Oct. 2023:<br>
-      Sequence labelling<br>
-      Beam search<br>
+      Language Models with <a href='https://huggingface.co/course/chapter1'>Transformers</a> and RNNs<br>
       Project help<br>
       </td><td><a href='labs/notebooks_2023/lab_5.ipynb'>lab 5</a></td></tr>
      <tr><td>41</td><td>
