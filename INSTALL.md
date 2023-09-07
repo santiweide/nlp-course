@@ -13,7 +13,11 @@ Important notes:
 The easiest way to view the course content is via the static [nbviewer](https://nbviewer.jupyter.org/github/coastalcph/nlp-course/blob/master/overview.ipynb). 
 While this does not allow you to change and execute code, it also doesn't require you to install software locally and only needs a browser.
 
-## Docker installation 
+## Google Colab
+
+When working on the labs we recommend you copy the notebooks to a folder on your Google Drive and open them as a Colab notebook. A thorough guide can be found [here](https://saturncloud.io/blog/how-to-run-a-downloaded-jupyter-notebook-on-google-colaboratory/). A Colab notebook will run on Google's servers and will allow you access to limited Google Cloud Compute GPUs for your model training and validation. Furthermore, the lab notebooks will be covered using Colab, so environments and tools will be similar.
+
+## Docker installation
 
 To be able to make changes to the book and render it dynamically, we recommend you use Docker.
 We assume you have a command line interface (CLI) in your OS 
