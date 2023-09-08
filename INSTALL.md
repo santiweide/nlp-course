@@ -2,8 +2,9 @@
 
 There are several ways to set-up and run the project:
 1. [ Render Book Statically ](#render-book-statically)
-2. [ Docker installation ](#install-docker)
-3. [ Set-up a Local Virtual Environment ](#set-up-a-local-virtual-environment)
+2. [ Google Colab ](#google-colab)
+3. [ Docker installation ](#install-docker)
+4. [ Set-up a Local Virtual Environment ](#set-up-a-local-virtual-environment)
 
 Important notes:
 1. [ Access Content ](#access-content)
