@@ -1,6 +1,7 @@
 google-auth
 google-auth-oauthlib
 graphviz
+python-crfsuite
 ipython
 jupyter
 Markdown
