@@ -31,9 +31,9 @@ Materials from this interactive book are used throughout the Natural Language Pr
       Project help<br>
       </td><td><a href='labs/notebooks_2024/lab_2.ipynb'>lab 2</a></td></tr>
      <tr><td>38</td><td>
-      <a href='https://web.stanford.edu/~jurafsky/slp3/4.pdf'>Chapter 4 up to end of 4.6</a><br>
       <a href='https://web.stanford.edu/~jurafsky/slp3/7.pdf'>Chapter 7 up to end of 7.6</a><br>
-      <a href='https://web.stanford.edu/~jurafsky/slp3/9.pdf'>Chapter 9 up to end of 9.2</a></td><td>17. Sep. 2024:<br>
+      <a href='https://web.stanford.edu/~jurafsky/slp3/8.pdf'>Chapter 8 up to end of 8.7</a>
+     </td><td>17. Sep. 2024:<br>
       Recurrent Neural Networks (<a href='chapters/rnn_slides_ucph.ipynb'>slides</a>)<br>
       Neural Language Models (<a href='chapters/dl-representations_contextual.ipynb'>slides</a>)<br>
       </td><td>20. &amp; 23. Sep. 2024:<br>
@@ -41,8 +41,8 @@ Materials from this interactive book are used throughout the Natural Language Pr
       Project help<br>
       </td><td><a href='labs/notebooks_2024/lab_3.ipynb'>lab 3</a></td></tr>
     <tr><td>39</td><td>
-      <a href='https://web.stanford.edu/~jurafsky/slp3/8.pdf'>Chapter 8 up to end of 8.3</a><br>
-      <a href='https://web.stanford.edu/~jurafsky/slp3/18.pdf'>Chapter 18 up to end of 18.2</a><br>
+      <a href='https://web.stanford.edu/~jurafsky/slp3/17.pdf'>Chapter 17 up to end of 17.3</a><br>
+      <a href='https://web.stanford.edu/~jurafsky/slp3/19.pdf'>Chapter 19 up to end of 19.2</a>
       </td><td>24. Sep. 2024:<br>
       Sequence Labelling (<a href='chapters/sequence_labeling_slides.ipynb'>slides</a>, <a href='chapters/sequence_labeling.ipynb'>notes</a>)<br>
       Parsing (<a href='chapters/dependency_parsing_slides_active.ipynb'>slides</a>)<br>
@@ -51,9 +51,10 @@ Materials from this interactive book are used throughout the Natural Language Pr
       Project help<br>
       </td><td><a href='labs/notebooks_2024/lab_4.ipynb'>lab 4</a></td></tr>
      <tr><td>40</td><td>
-      <a href='https://web.stanford.edu/~jurafsky/slp3/9.pdf'>9.8</a><br>
-      <a href='https://web.stanford.edu/~jurafsky/slp3/10.pdf'>Chapter 10</a><br>
-      <a href='https://web.stanford.edu/~jurafsky/slp3/11.pdf'>Chapter 11</a><br>
+      <a href='https://web.stanford.edu/~jurafsky/slp3/8.pdf'>Chapter 8 up to end of 8.8</a><br>
+      <a href='https://web.stanford.edu/~jurafsky/slp3/9.pdf'>Chapter 9 up to end of 9.2</a><br>
+      <a href='https://web.stanford.edu/~jurafsky/slp3/10.pdf'>Chapter 10 up to end of 10.2</a><br>
+      <a href='https://web.stanford.edu/~jurafsky/slp3/11.pdf'>Chapter 11</a>
       </td><td>1. Oct. 2024:<br>
       Attention (<a href='chapters/attention_slides2.ipynb'>slides</a>)<br>
       Transformers (<a href='chapters/dl-representations_contextual_transformers.ipynb'>slides</a>)<br>
@@ -63,7 +64,7 @@ Materials from this interactive book are used throughout the Natural Language Pr
       </td><td><a href='labs/notebooks_2024/lab_5.ipynb'>lab 5</a></td></tr>
      <tr><td>41</td><td>
       <a href='https://web.stanford.edu/~jurafsky/slp3/14.pdf'>Chapter 14</a><br>
-      <a href='https://web.stanford.edu/~jurafsky/slp3/14.pdf'>Chapter 19</a><br>
+      <a href='https://web.stanford.edu/~jurafsky/slp3/20.pdf'>Chapter 20</a>
       </td><td>8. Oct. 2024:<br>
       Information Extraction (<a href='chapters/information_extraction_slides.ipynb'>slides</a>)<br>
       Question Answering (<a href='chapters/question_answering_slides.ipynb'>slides</a>)<br>
@@ -72,8 +73,8 @@ Materials from this interactive book are used throughout the Natural Language Pr
       Project help<br>
       </td><td><a href='labs/notebooks_2024/lab_6.ipynb'>lab 6</a></td></tr>
     <tr><td>43</td><td>
+      <a href='https://web.stanford.edu/~jurafsky/slp3/12.pdf'>Chapter 12</a><br>
       <a href='https://web.stanford.edu/~jurafsky/slp3/13.pdf'>Chapter 13</a><br>
-      <a href='https://shanzhenren.github.io/csci-699-replnlp-2019fall/lectures/W6-L3-Cross_Lingual_Transfer.pdf'>Wang, 2019</a><br>
       </td><td>22. Oct. 2024:<br>
       Machine Translation (<a href='chapters/nmt_slides_active.ipynb'>slides</a>)<br>
       Transfer Learning (<a href='chapters/xling_transfer_learning_slides.ipynb'>slides</a>)<br>
