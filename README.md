@@ -39,14 +39,14 @@ Note: Github has issues displaying the python notebook downloaded from colab(202
       <td> <a href='https://web.stanford.edu/~jurafsky/slp3/8.pdf'>Chapter 8 up to end of 8.8</a><br> <a href='https://web.stanford.edu/~jurafsky/slp3/9.pdf'>Chapter 9 up to end of 9.2</a><br> <a href='https://web.stanford.edu/~jurafsky/slp3/10.pdf'>Chapter 10 up to end of 10.2</a><br> <a href='https://web.stanford.edu/~jurafsky/slp3/11.pdf'>Chapter 11</a> </td>
       <td>23. Sep. 2025:<br> Attention (<a href='chapters/attention_slides2.ipynb'>slides</a>)<br> Transformers (<a href='chapters/dl-representations_contextual_transformers.ipynb'>slides</a>)<br> </td>
       <td>26. &amp; 29. Sep. 2025:<br> Language Models with <a href='https://huggingface.co/course/chapter1'>Transformers</a> and RNNs<br> Project help<br> </td>
-      <td><a href='labs/notebooks_2025/lab_4.ipynb'>lab 5</a></td>
+      <td><a href='labs/notebooks_2025/lab_4.ipynb'>lab 4</a></td>
    </tr>
    <tr>
       <td>40</td>
       <td> <a href='https://web.stanford.edu/~jurafsky/slp3/17.pdf'>Chapter 17 up to end of 17.3</a><br> <a href='https://web.stanford.edu/~jurafsky/slp3/19.pdf'>Chapter 19 up to end of 19.2</a> </td>
       <td>30. Sep. 2025:<br> Sequence Labelling (<a href='chapters/sequence_labeling_slides.ipynb'>slides</a>, <a href='chapters/sequence_labeling.ipynb'>notes</a>)<br> Parsing (<a href='chapters/dependency_parsing_slides_active.ipynb'>slides</a>)<br> </td>
       <td>3. &amp; 6. Oct. 2025:<br> Sequence labelling and beam search<br> Project help<br> </td>
-      <td><a href='labs/notebooks_2025/lab_5.ipynb'>lab 4</a></td>
+      <td><a href='labs/notebooks_2025/lab_5.ipynb'>lab 5</a></td>
    </tr>
    <tr>
       <td>41</td>
